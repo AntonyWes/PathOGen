@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jogl-all-2.3.22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
